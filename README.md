@@ -95,8 +95,19 @@ Cydia
 
 ## Repos
 
-**Repos were moved because they were flagging the anti-piracy bot on r/jailbreak**
-
+* repo.twickd.com/
+* skitty.xyz/repo/
+* repo.packix.com/
+* n-i-n-0.github.io/repo/
+* apt.modmyi.com/
+* idevicehacked.com/
+* gmoran.me/repo/
+* evynw.github.io/
+* repo.dynastic.co/
+* cokepokes.github.io/
+* repo.chariz.com/
+* apt.bingner.com/
+* worksbybbs.github.io/
 
 ## Tweaks
 
