@@ -38,30 +38,30 @@ If it does not find the apple file automatically you will have to set it. click 
 
 Click the arrow icon near the network icon in the taskbar. This will bring up an menu with multiple icons. Look for a diamond shaped logo that says AltServer when mousing over it. Click on it.
 
-![alt text](https://raw.githubusercontent.com/DIYCharles/TravisiPhoneCracked/master/photos/img1.jpg "img1.jpg")
+![alt text](https://github.com/DIYCharles/TravisiPhoneCracked/blob/master/photos/img1.JPG?raw=true "img1.jpg")
 
 From the option brought up, hover over Install AltStore, and select your iOS device.
 
-![alt text](https://raw.githubusercontent.com/DIYCharles/TravisiPhoneCracked/master/photos/img2.jpg "img2.jpg")
+![alt text](https://github.com/DIYCharles/TravisiPhoneCracked/blob/master/photos/img2.JPG?raw=true "img2.jpg")
 
 
 Enter your Apple ID and password when prompted. It should look like this.
 
-![alt text](https://raw.githubusercontent.com/DIYCharles/TravisiPhoneCracked/master/photos/img3.jpg "img3.jpg")
+![alt text](https://github.com/DIYCharles/TravisiPhoneCracked/blob/master/photos/img3.JPG?raw=true "img3.jpg")
 
 
 On your iOS device, open Settings -> General -> Device Management and tap on your Apple ID.
 
-![alt text](https://raw.githubusercontent.com/DIYCharles/TravisiPhoneCracked/master/photos/11.png "11.png")
+![alt text](https://github.com/DIYCharles/TravisiPhoneCracked/blob/master/photos/11.PNG?raw=true "11.png")
 
-![alt text](https://raw.githubusercontent.com/DIYCharles/TravisiPhoneCracked/master/photos/12.jpg "12.jpg")
+![alt text](https://github.com/DIYCharles/TravisiPhoneCracked/blob/master/photos/12.JPG?raw=true "12.jpg")
 
-![alt text](https://raw.githubusercontent.com/DIYCharles/TravisiPhoneCracked/master/photos/13.jpg "13.jpg")
+![alt text](https://github.com/DIYCharles/TravisiPhoneCracked/blob/master/photos/13.JPG?raw=true "13.jpg")
 
 
 Trust AltStore.
 
-![alt text](https://raw.githubusercontent.com/DIYCharles/TravisiPhoneCracked/master/photos/14.jpg "14.jpg")
+![alt text](https://github.com/DIYCharles/TravisiPhoneCracked/blob/master/photos/14.JPG?raw=true "14.jpg")
 
 
 Download and Install unc0ver
@@ -71,22 +71,22 @@ Download and Install unc0ver
 
 copy the IPA and paste it into your iCloud/downloads file 
 
-![alt text](https://raw.githubusercontent.com/DIYCharles/TravisiPhoneCracked/master/photos/img4.jpg "img4.jpg")
+![alt text](https://github.com/DIYCharles/TravisiPhoneCracked/blob/master/photos/img4.JPG?raw=true "img4.jpg")
 
 On your iPhone open the AltStore and click on my apps. In the top left corner click the plus.
 
-![alt text](https://raw.githubusercontent.com/DIYCharles/TravisiPhoneCracked/master/photos/15.png "15.png")
+![alt text](https://github.com/DIYCharles/TravisiPhoneCracked/blob/master/photos/15.PNG?raw=true "15.png")
 
 Go to your iCloud/downloads and open the unc0ver IPA 
 
 If promoted, sign into the same Apple ID you used before.
 AltStore will now install the app.
 
-![alt text](https://raw.githubusercontent.com/DIYCharles/TravisiPhoneCracked/master/photos/16.png "16.png")
+![alt text](https://github.com/DIYCharles/TravisiPhoneCracked/blob/master/photos/16.PNG?raw=true "16.png")
 
 Open the unc0ver app and click Jailbreak 
 
-![alt text](https://raw.githubusercontent.com/DIYCharles/TravisiPhoneCracked/master/photos/17.png "17.png")
+![alt text](https://github.com/DIYCharles/TravisiPhoneCracked/blob/master/photos/17.PNG?raw=true "17.png")
 
 
 
