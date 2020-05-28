@@ -112,6 +112,25 @@ Cydia
 * worksbybbs.github.io/
 
 
+## Tweaks
+
+* SnowBoard
+* TweakCompatible (if you go to cydia sources and click on TweakCompatible it will only show you tweaks compatible with your Ios )
+* castswitcher (2 rows of app when you go to multi task)
+* Saw (a must for iphone x/xs go to settings and scroll down to saw enable, hide home bar, and shrink keyboard)
+* clean home screen  (removes the names from apps and makes a cleaner home screen)
+* homeplus
+* bettersettings
+* cylinder
+* fastx
+* folded
+* vibrato
+* xenhtml
+* xendata
+* autounlockx
+* 
+* 
+* 
 
 
 
